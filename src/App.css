@@ -1,0 +1,12 @@
+/* @font-face {
+    font-family: 'league_spartan';
+    src: url('/assets/fonts/leaguespartan-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+} */
+
+
+* {
+    font-family: 'league_spartan';
+}
