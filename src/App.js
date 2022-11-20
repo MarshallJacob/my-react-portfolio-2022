@@ -5,6 +5,6 @@ import "./App.css";
 import "./index.css";
 
 
-const App = () => <PortfolioContainer />;
+const App = () => <PortfolioContainer /> ;
 
 export default App;

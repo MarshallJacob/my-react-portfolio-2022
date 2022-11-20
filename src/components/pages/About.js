@@ -1,17 +1,38 @@
 import React from 'react';
+import portfolioPicture from "./assets/images/Portfolio-pic.jpg";
 
 export default function About() {
   return (
     <div>
-      <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+      <section>
+        <div>
+          <h1 class="pageHeader">Welcome!</h1>
+          <p>
+          I'm new to develepoing but I'm loving it so far. I love learning languages and playing music 
+          <br></br>
+          so programming as been a perfect fit for me. Everything I learn just gets me excited for more!
+          </p>
+          <div>
+            <img src={portfolioPicture} alt="portfolioPicture" id="portPic"></img>
+
+          </div>
+        </div>
+      </section>
+      {/* <section>
+        <div>
+
+        </div>
+        <div>
+          <h2>My hobbies</h2>
+          <div>
+            <h4>The Gully Bandits</h4>
+          </div>
+          <div>
+            <h4>Learning Languages!</h4>
+          </div>
+        </div>
+      </section> */}
     </div>
+    
   );
 }

@@ -10,3 +10,44 @@
 * {
     font-family: 'league_spartan';
 }
+
+.nav {
+    background-color: black;
+    opacity: 0.8;
+}
+
+#nav-title, .nav-item {
+    color: white;
+}
+
+.pageHeader {
+    padding: 25px;
+}
+
+.card {
+    width: 18rem;
+    margin: 25px;
+}
+
+#portPic {
+    height: 300px;
+}
+
+#res-img {
+    flex: content;
+    justify-content: center;
+}
+
+#res-dl {
+    flex: content;
+    float: right;
+    padding-right: 10rem;
+}
+
+footer {
+    position: absolute;
+    height: 40px;
+    opacity: 0.4;
+    justify-content: right;
+}
+
