@@ -4,6 +4,7 @@ import teamTrack from './assets/images/team-tracker.jpg';
 import noteTaker from './assets/images/note-taker.jpg';
 import traveLog from './assets/images/traveLog.jpg';
 import regex from './assets/images/regex.jpg';
+import text from './assets/images/text-editor.jpg';
 
 
 export default function Portfolio() {
@@ -59,12 +60,12 @@ export default function Portfolio() {
             </div>
           </div>
           <div  className="card col">
-          <img class="card-img-top" src={myJam} alt="thats-my-jam website"></img>
+          <img class="card-img-top" src={text} alt="thats-my-jam website"></img>
             <div class="card-body">
-            <h5 class="card-title">Thats-My-Jam</h5>
-            <p class="card-text">An application that allows the user to find the lyrics to a song. Is it really your jam if you don't know the words?</p>
-            <a href="https://github.com/jibba6/Thats-My-Jam" class="btn btn-primary">GitHub Page</a>
-            <a href="https://jibba6.github.io/Thats-My-Jam/" class="btn btn-primary">Website</a>
+            <h5 class="card-title">Text-Editor</h5>
+            <p class="card-text">Another text editor out there in the world.</p>
+            <a href="https://github.com/MarshallJacob/text-editor-oct-2022Links to an external site." class="btn btn-primary">GitHub Page</a>
+            <a href="https://text-editor-oct-2022.herokuapp.com/Links to an external site." class="btn btn-primary">Website</a>
             </div>
           </div>
         </div>

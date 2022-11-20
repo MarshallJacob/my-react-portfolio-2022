@@ -11,7 +11,7 @@ function Footer () {
                 Linkdin: 
             </div>
             <div>
-                Github: Facebook
+                Facebook:
             </div>
 
 
