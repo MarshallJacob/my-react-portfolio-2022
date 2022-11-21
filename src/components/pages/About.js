@@ -7,12 +7,12 @@ export default function About() {
       <section>
         <div>
           <h1 class="pageHeader">Welcome!</h1>
-          <p>
-          I'm new to develepoing but I'm loving it so far. I love learning languages and playing music 
+          <p class="main-pars">
+          I'm new to web development, but I'm loving it so far. I love learning languages and playing music 
           <br></br>
           so programming as been a perfect fit for me. Everything I learn just gets me excited for more!
           </p>
-          <div>
+          <div id="abt-img">
             <img src={portfolioPicture} alt="portfolioPicture" id="portPic"></img>
 
           </div>

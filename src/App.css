@@ -20,6 +20,14 @@
     color: white;
 }
 
+.main-pars {
+    padding-left: 5rem;
+}
+
+#abt-img {
+    padding: 5rem;
+}
+
 .pageHeader {
     padding: 25px;
 }
