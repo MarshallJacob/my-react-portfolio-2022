@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d66e7450.css",
+    "main.js": "/static/js/main.e2a0cb03.js",
+    "static/media/Portfolio-pic.jpg": "/static/media/Portfolio-pic.b8ef3437b84b3b7e4ebc.jpg",
+    "static/media/thats-my-jam.jpg": "/static/media/thats-my-jam.0842f24ab0b1d4587f35.jpg",
+    "static/media/regex.jpg": "/static/media/regex.6db2e8c94bf61d4242a0.jpg",
+    "static/media/team-tracker.jpg": "/static/media/team-tracker.f5d647eb62a0eaeb9ad8.jpg",
+    "static/media/traveLog.jpg": "/static/media/traveLog.f299405e5c8001f03ebc.jpg",
+    "static/media/note-taker.jpg": "/static/media/note-taker.c8054949702292142213.jpg",
+    "static/media/text-editor.jpg": "/static/media/text-editor.3ec014c856bbca180703.jpg",
+    "static/media/Marshall_Jacob_Resume.pdf": "/static/media/Marshall_Jacob_Resume.c72ba710994302f89f40.pdf",
+    "static/media/Marshall_Jacob_Resume_photo.jpg": "/static/media/Marshall_Jacob_Resume_photo.03a25e09e419e68850d2.jpg",
+    "index.html": "/index.html",
+    "main.d66e7450.css.map": "/static/css/main.d66e7450.css.map",
+    "main.e2a0cb03.js.map": "/static/js/main.e2a0cb03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66e7450.css",
+    "static/js/main.e2a0cb03.js"
+  ]
+}
