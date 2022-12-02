@@ -4,7 +4,7 @@ import teamTrack from './assets/images/team-tracker.jpg';
 import noteTaker from './assets/images/note-taker.jpg';
 import traveLog from './assets/images/traveLog.jpg';
 import regex from './assets/images/regex.jpg';
-import text from './assets/images/text-editor.jpg';
+import task from './assets/images/task_master_photo.jpg';
 
 
 export default function Portfolio() {
@@ -32,7 +32,7 @@ export default function Portfolio() {
             </div>
           </div>
           <div  className="card col">
-          <img class="card-img-top" src={noteTaker} alt="thats-my-jam website"></img>
+          <img class="card-img-top" src={noteTaker} alt="note taker website"></img>
             <div class="card-body">
             <h5 class="card-title">Note Taker</h5>
             <p class="card-text">Ever needed an great way to keep track of those golden ideas without losing track of them? Then the Note Taker app is the perfect solution for you!</p>
@@ -43,7 +43,7 @@ export default function Portfolio() {
         </div>
           <div class="row">
           <div  className="card col">
-          <img class="card-img-top" src={traveLog} alt="thats-my-jam website"></img>
+          <img class="card-img-top" src={traveLog} alt="travLog website"></img>
             <div class="card-body">
             <h5 class="card-title">traveLog</h5>
             <p class="card-text">This application will allow the user to keep track of all of the awesome places that they've been. That's not all! They will also be able to track all of the wonderfull places that they want to visit!</p>
@@ -52,7 +52,7 @@ export default function Portfolio() {
             </div>
           </div>
           <div  className="card col">
-          <img class="card-img-top" src={regex} alt="thats-my-jam website"></img>
+          <img class="card-img-top" src={regex} alt="regex website"></img>
             <div class="card-body">
             <h5 class="card-title">Regex</h5>
             <p class="card-text">Here's a regex expanation that I made describing how I would handle email vaildation in a later project</p>
@@ -60,12 +60,12 @@ export default function Portfolio() {
             </div>
           </div>
           <div  className="card col">
-          <img class="card-img-top" src={text} alt="thats-my-jam website"></img>
+          <img class="card-img-top" src={task} alt="thats-my-jam website"></img>
             <div class="card-body">
-            <h5 class="card-title">Text-Editor</h5>
-            <p class="card-text">Another text editor out there in the world.</p>
-            <a href="https://github.com/MarshallJacob/text-editor-oct-2022Links to an external site." class="btn btn-primary">GitHub Page</a>
-            <a href="https://text-editor-oct-2022.herokuapp.com/Links to an external site." class="btn btn-primary">Website</a>
+            <h5 class="card-title">the_task_master_3000</h5>
+            <p class="card-text">Ever needed to keep track of all the things you need to do in your busy life. Then the task master 3000 is the app for you!</p>
+            <a href="https://github.com/MarshallJacob/the_task_master to an external site." class="btn btn-primary">GitHub Page</a>
+            <a href="https://the-task-master-3000.herokuapp.com/ to an external site." class="btn btn-primary">Website</a>
             </div>
           </div>
         </div>
