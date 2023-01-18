@@ -28,7 +28,7 @@ export default function PortfolioContainer() {
   // Actually renders the choice of the user on the page
   return (
     <>
-      <div>
+      <div className="mainbody">
         <NavTabs currentPage={currentPage} handlePageChange={handlePageChange}/>
         {renderPage()}
       </div>

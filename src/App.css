@@ -4,37 +4,92 @@
     font-weight: normal;
     font-style: normal;
 
+    All logos downloaded from: "https://icons8.com/icon/"
 } */
 
 
 * {
     font-family: 'league_spartan';
-}
-
-.nav {
-    background-color: black;
-    opacity: 0.8;
-}
-
-#nav-title, .nav-item {
     color: white;
 }
 
-.main-pars {
+.mainbody {
+    background-color: rgb(129, 196, 238);
+}
+
+.nav {
+    display: flex;
+    background-color: black;
+    opacity: 0.8;
+    padding: 1rem 5rem;
+}
+
+.currentPage {
+    color: white;
+}
+
+#nav-title {
+    justify-content: start;
+    padding-left: 2.5rem;
+    padding-right: 45rem;
+}
+
+.aboutSection {
+    background-color: rgba(0, 0, 0, 0.778);
+    flex-wrap: wrap;
+    padding-bottom: 400px;
+}
+
+.aboutTop {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.abt-par {
     padding-left: 5rem;
 }
 
 #abt-img {
-    padding: 5rem;
+    padding: 2rem;
+}
+
+#portPic {
+    border-radius: 75%;
+}
+
+.lsec {
+    display: flex;
+    padding: 2rem;
+}
+
+.aboutIcons {
+    box-shadow: 5rem;
 }
 
 .pageHeader {
     padding: 25px;
+    width: 25rem;
+    margin: 25px;
+}
+
+.container {
+    display: relative;
+    padding-bottom: 500px;
+}
+
+.card-main {
+    display: flex;
+    flex-direction: row;
 }
 
 .card {
+    display: flex;
     width: 18rem;
+    height: auto;
     margin: 25px;
+    background-color: black;
 }
 
 #portPic {
@@ -42,20 +97,30 @@
 }
 
 #res-img {
-    flex: content;
-    justify-content: center;
+    max-width: 100%;
+    max-height: 100%;
 }
 
-#res-dl {
+/* #res-dl {
     flex: content;
     float: right;
-    padding-right: 10rem;
-}
+    padding-right: 32rem;
+} */
 
 footer {
-    position: absolute;
-    height: 40px;
-    opacity: 0.4;
-    justify-content: right;
+    display: flex;
+    height: 56px;
+    justify-content: space-between;
 }
+
+.iconsection {
+    display: flex;
+    flex-direction: row;
+}
+
+.socialicon {
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+  }  
 
