@@ -23,7 +23,7 @@ export default function About() {
           <br></br>
           Market. I'm used to working with web developers and have helped design systems and processes for True
           <br></br>
-          Leaf production and shippping teams.
+          Leaf production and shipping teams.
           <br></br>
           <br></br>
           
