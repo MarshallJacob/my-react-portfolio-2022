@@ -32,7 +32,7 @@ export default function About() {
             <img src={portfolioPicture} alt="portfolioPicture" id="portPic"></img>
           </div>
         </div>
-        <div>
+        {/* <div>
           <div className="aboutBtm">
             <h3>Email: marshall.jacob16@icloud.com</h3>
           </div>
@@ -56,7 +56,7 @@ export default function About() {
             </div>
         </div>
           </div>
-        </div>
+        </div> */}
       </section>
       <section>
         <div className="lsec">
