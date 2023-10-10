@@ -1,8 +1,5 @@
 import React from 'react';
 import portfolioPicture from "./assets/images/Portfolio-pic.jpg";
-import ghicon from './assets/images/github-mark.jpg';
-import linkicon from './assets/images/linkdin-icon-1.jpg';
-import fbicon from './assets/images/fb-icon.jpg';
 
 // All logos downloaded from: "https://icons8.com/icon/"
 
@@ -17,14 +14,11 @@ export default function About() {
             About Me
           </h2>
           <p className="abt-par">
-          I'm a new web developer. I love learning languages and playing music on multiple intruments.
+          I'm a new web developer. I love learning languages and playing music.
           <br></br>
-          Programming has become my new obssesion. I'm currently the Affiliate Marketing Manager for True Leaf  
+          Programming has become my new obssesion. I'm currently the Marketing Team Lead for True Leaf  
           <br></br>
-          Market. I'm used to working with web developers and have helped design systems and processes for True
-          <br></br>
-          Leaf production and shipping teams.
-          <br></br>
+          Market. I coordinate a lot with web developers to carry out changes on our website.
           <br></br>
           
           </p>
